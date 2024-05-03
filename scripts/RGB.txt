@@ -1,0 +1,320 @@
+Dataset----HCInew_bicycle, PSNR---34.218362, SSIM---0.977784
+Finished!
+
+Working on scene: HCInew_herbs...
+Dataset----HCInew_herbs, PSNR---33.529141, SSIM---0.963438
+Finished!
+
+Working on scene: HCInew_dishes...
+Dataset----HCInew_dishes, PSNR---30.494559, SSIM---0.970044
+Finished!
+
+Working on scene: HCInew_bedroom...
+Dataset----HCInew_bedroom, PSNR---37.013585, SSIM---0.978737
+Finished!
+
+angular_out: 7 Total: PSNR---33.813912, SSIM---0.972501
+Working on scene: HCIold_buddha...
+Dataset----HCIold_buddha, PSNR---44.894491, SSIM---0.996249
+Finished!
+
+Working on scene: HCIold_buddha2...
+Dataset----HCIold_buddha2, PSNR---23.209262, SSIM---0.759177
+Finished!
+
+Working on scene: HCIold_monasRoom...
+Dataset----HCIold_monasRoom, PSNR---40.635600, SSIM---0.968651
+Finished!
+
+Working on scene: HCIold_papillon...
+Dataset----HCIold_papillon, PSNR---29.424768, SSIM---0.899843
+Finished!
+
+Working on scene: HCIold_stillLife...
+Dataset----HCIold_stillLife, PSNR---26.946038, SSIM---0.921592
+Finished!
+
+angular_out: 7 Total: PSNR---33.022032, SSIM---0.909102
+
+Dataset----IMG_1324_eslf, PSNR---34.487208, SSIM---0.868066
+Finished!
+
+Working on scene: IMG_1306_eslf...
+Dataset----IMG_1306_eslf, PSNR---39.610908, SSIM---0.985254
+Finished!
+
+Working on scene: IMG_1555_eslf...
+Dataset----IMG_1555_eslf, PSNR---34.126308, SSIM---0.975448
+Finished!
+
+Working on scene: IMG_1321_eslf...
+Dataset----IMG_1321_eslf, PSNR---39.309811, SSIM---0.967504
+Finished!
+
+Working on scene: Seahorse...
+Dataset----  Seahorse, PSNR---33.085653, SSIM---0.896967
+Finished!
+
+Working on scene: IMG_1316_eslf...
+Dataset----IMG_1316_eslf, PSNR---33.553795, SSIM---0.856298
+Finished!
+
+Working on scene: IMG_1411_eslf...
+Dataset----IMG_1411_eslf, PSNR---35.652052, SSIM---0.984960
+Finished!
+
+Working on scene: IMG_1328_eslf...
+Dataset----IMG_1328_eslf, PSNR---40.975722, SSIM---0.987046
+Finished!
+
+Working on scene: Flower2...
+Dataset----   Flower2, PSNR---35.380058, SSIM---0.973311
+Finished!
+
+Working on scene: Rock...
+Dataset----      Rock, PSNR---35.927425, SSIM---0.972536
+Finished!
+
+Working on scene: IMG_1743_eslf...
+Dataset----IMG_1743_eslf, PSNR---35.739547, SSIM---0.944616
+Finished!
+
+Working on scene: IMG_1586_eslf...
+Dataset----IMG_1586_eslf, PSNR---36.921047, SSIM---0.948860
+Finished!
+
+Working on scene: IMG_1528_eslf...
+Dataset----IMG_1528_eslf, PSNR---34.194477, SSIM---0.969899
+Finished!
+
+Working on scene: IMG_1086_eslf...
+Dataset----IMG_1086_eslf, PSNR---34.036467, SSIM---0.868644
+Finished!
+
+Working on scene: IMG_1541_eslf...
+Dataset----IMG_1541_eslf, PSNR---34.565517, SSIM---0.966882
+Finished!
+
+Working on scene: IMG_1389_eslf...
+Dataset----IMG_1389_eslf, PSNR---35.156226, SSIM---0.911225
+Finished!
+
+Working on scene: IMG_1320_eslf...
+Dataset----IMG_1320_eslf, PSNR---33.758026, SSIM---0.898420
+Finished!
+
+Working on scene: Cars...
+Dataset----      Cars, PSNR---35.087521, SSIM---0.988340
+Finished!
+
+Working on scene: IMG_1554_eslf...
+Dataset----IMG_1554_eslf, PSNR---31.795958, SSIM---0.978665
+Finished!
+
+Working on scene: Flower1...
+Dataset----   Flower1, PSNR---35.198694, SSIM---0.958724
+Finished!
+
+Working on scene: IMG_1419_eslf...
+Dataset----IMG_1419_eslf, PSNR---34.755209, SSIM---0.940416
+Finished!
+
+Working on scene: IMG_1317_eslf...
+Dataset----IMG_1317_eslf, PSNR---32.538768, SSIM---0.798852
+Finished!
+
+Working on scene: IMG_1085_eslf...
+Dataset----IMG_1085_eslf, PSNR---38.642894, SSIM---0.963824
+Finished!
+
+Working on scene: IMG_1340_eslf...
+Dataset----IMG_1340_eslf, PSNR---35.730574, SSIM---0.915466
+Finished!
+
+Working on scene: IMG_1390_eslf...
+Dataset----IMG_1390_eslf, PSNR---35.687699, SSIM---0.908738
+Finished!
+
+Working on scene: IMG_1312_eslf...
+Dataset----IMG_1312_eslf, PSNR---38.472607, SSIM---0.962679
+Finished!
+
+Working on scene: IMG_1325_eslf...
+Dataset----IMG_1325_eslf, PSNR---34.881859, SSIM---0.905421
+Finished!
+
+Working on scene: IMG_1184_eslf...
+Dataset----IMG_1184_eslf, PSNR---43.915821, SSIM---0.991670
+Finished!
+
+Working on scene: IMG_1187_eslf...
+Dataset----IMG_1187_eslf, PSNR---40.853168, SSIM---0.983223
+Finished!
+
+Working on scene: IMG_1327_eslf...
+Dataset----IMG_1327_eslf, PSNR---36.865863, SSIM---0.955354
+Finished!
+
+angular_out: 7 Total: PSNR---36.030229, SSIM---0.940910
+Working on scene: occlusions_21_eslf...
+Dataset----occlusions_21_eslf, PSNR---38.061384, SSIM---0.967467
+Finished!
+
+Working on scene: occlusions_8_eslf...
+Dataset----occlusions_8_eslf, PSNR---38.473470, SSIM---0.981722
+Finished!
+
+Working on scene: occlusions_6_eslf...
+Dataset----occlusions_6_eslf, PSNR---33.090280, SSIM---0.834846
+Finished!
+
+Working on scene: occlusions_20_eslf...
+Dataset----occlusions_20_eslf, PSNR---34.964884, SSIM---0.978049
+Finished!
+
+Working on scene: occlusions_30_eslf...
+Dataset----occlusions_30_eslf, PSNR---34.079310, SSIM---0.951719
+Finished!
+
+Working on scene: occlusions_22_eslf...
+Dataset----occlusions_22_eslf, PSNR---38.638346, SSIM---0.980015
+Finished!
+
+Working on scene: occlusions_17_eslf...
+Dataset----occlusions_17_eslf, PSNR---36.889539, SSIM---0.979379
+Finished!
+
+Working on scene: occlusions_44_eslf...
+Dataset----occlusions_44_eslf, PSNR---35.017428, SSIM---0.964932
+Finished!
+
+Working on scene: occlusions_5_eslf...
+Dataset----occlusions_5_eslf, PSNR---31.689008, SSIM---0.737473
+Finished!
+
+Working on scene: occlusions_27_eslf...
+Dataset----occlusions_27_eslf, PSNR---33.341114, SSIM---0.953157
+Finished!
+
+Working on scene: occlusions_25_eslf...
+Dataset----occlusions_25_eslf, PSNR---32.547222, SSIM---0.842584
+Finished!
+
+Working on scene: occlusions_10_eslf...
+Dataset----occlusions_10_eslf, PSNR---34.219685, SSIM---0.960298
+Finished!
+
+Working on scene: occlusions_2_eslf...
+Dataset----occlusions_2_eslf, PSNR---30.681465, SSIM---0.938772
+Finished!
+
+Working on scene: occlusions_3_eslf...
+Dataset----occlusions_3_eslf, PSNR---32.582806, SSIM---0.965125
+Finished!
+
+Working on scene: occlusions_7_eslf...
+Dataset----occlusions_7_eslf, PSNR---35.179424, SSIM---0.940874
+Finished!
+
+Working on scene: occlusions_35_eslf...
+Dataset----occlusions_35_eslf, PSNR---28.723783, SSIM---0.793424
+Finished!
+
+Working on scene: occlusions_29_eslf...
+Dataset----occlusions_29_eslf, PSNR---34.345492, SSIM---0.907458
+Finished!
+
+Working on scene: occlusions_43_eslf...
+Dataset----occlusions_43_eslf, PSNR---26.697388, SSIM---0.902307
+Finished!
+
+Working on scene: occlusions_24_eslf...
+Dataset----occlusions_24_eslf, PSNR---34.445329, SSIM---0.916564
+Finished!
+
+Working on scene: occlusions_48_eslf...
+Dataset----occlusions_48_eslf, PSNR---39.014751, SSIM---0.986267
+Finished!
+
+Working on scene: occlusions_16_eslf...
+Dataset----occlusions_16_eslf, PSNR---34.450018, SSIM---0.978117
+Finished!
+
+Working on scene: occlusions_1_eslf...
+Dataset----occlusions_1_eslf, PSNR---34.336504, SSIM---0.977324
+Finished!
+
+Working on scene: occlusions_47_eslf...
+Dataset----occlusions_47_eslf, PSNR---34.734676, SSIM---0.980083
+Finished!
+
+Working on scene: occlusions_33_eslf...
+Dataset----occlusions_33_eslf, PSNR---32.260863, SSIM---0.823426
+Finished!
+
+Working on scene: occlusions_18_eslf...
+Dataset----occlusions_18_eslf, PSNR---36.993670, SSIM---0.969705
+Finished!
+
+angular_out: 7 Total: PSNR---34.218314, SSIM---0.928444
+Working on scene: reflective_12_eslf...
+Dataset----reflective_12_eslf, PSNR---38.145491, SSIM---0.988132
+Finished!
+
+Working on scene: reflective_1_eslf...
+Dataset----reflective_1_eslf, PSNR---38.567218, SSIM---0.977175
+Finished!
+
+Working on scene: reflective_22_eslf...
+Dataset----reflective_22_eslf, PSNR---35.595362, SSIM---0.916385
+Finished!
+
+Working on scene: reflective_14_eslf...
+Dataset----reflective_14_eslf, PSNR---19.672159, SSIM---0.798223
+Finished!
+
+Working on scene: reflective_5_eslf...
+Dataset----reflective_5_eslf, PSNR---33.760739, SSIM---0.876105
+Finished!
+
+Working on scene: reflective_3_eslf...
+Dataset----reflective_3_eslf, PSNR---31.640178, SSIM---0.900721
+Finished!
+
+Working on scene: reflective_24_eslf...
+Dataset----reflective_24_eslf, PSNR---37.255627, SSIM---0.978188
+Finished!
+
+Working on scene: reflective_4_eslf...
+Dataset----reflective_4_eslf, PSNR---31.718985, SSIM---0.881741
+Finished!
+
+Working on scene: reflective_11_eslf...
+Dataset----reflective_11_eslf, PSNR---27.500058, SSIM---0.892009
+Finished!
+
+Working on scene: reflective_29_eslf...
+Dataset----reflective_29_eslf, PSNR---35.171885, SSIM---0.931740
+Finished!
+
+Working on scene: reflective_25_eslf...
+Dataset----reflective_25_eslf, PSNR---37.317337, SSIM---0.950725
+Finished!
+
+Working on scene: reflective_19_eslf...
+Dataset----reflective_19_eslf, PSNR---34.023939, SSIM---0.850681
+Finished!
+
+Working on scene: reflective_15_eslf...
+Dataset----reflective_15_eslf, PSNR---34.610127, SSIM---0.939315
+Finished!
+
+Working on scene: reflective_18_eslf...
+Dataset----reflective_18_eslf, PSNR---34.834969, SSIM---0.973001
+Finished!
+
+Working on scene: reflective_7_eslf...
+Dataset----reflective_7_eslf, PSNR---34.789368, SSIM---0.931672
+Finished!
+
+angular_out: 7 Total: PSNR---33.640230, SSIM---0.919054

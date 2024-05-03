@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f743cef-a21e-4193-a7c1-0a24922054a7" name="3090_1">
+        <fileTransfer rootFolder="/home/stu/mjh/neural-light-fields" accessType="SFTP" host="192.168.178.110" port="22" sshConfigId="6b53b11f-f0f6-4861-846c-4b9e564888ec" sshConfig="stu@192.168.178.110:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
